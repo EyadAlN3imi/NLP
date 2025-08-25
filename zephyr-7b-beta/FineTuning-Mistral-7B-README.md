@@ -1,7 +1,7 @@
 
 ---
 
-# Fine-Tuning Mistral-7B on an Instruction-Based Dataset
+# Fine-Tuning zephyr-7b-beta on an Instruction-Based Dataset
 
 This project focuses on fine-tuning the Mistral-7B model, specifically the `HuggingFaceH4/zephyr-7b-beta` variant, using an instruction-based dataset. The primary objective is to improve the model's ability to follow instructions accurately and enhance its performance on downstream tasks. By leveraging a symbolic instruction dataset, we aim to refine the model's instruction-following capabilities.
 
